@@ -1,9 +1,9 @@
-# (Animal Pattern Jigsaw Puzzle){}
+# [Animal Pattern Jigsaw Puzzle](https://httpharshjindal.github.io/Jigsaw-Puzzle/)
 This project is an interactive jigsaw puzzle featuring various animal patterns, created using HTML, Tailwind CSS, and JavaScript. The puzzle allows users to engage with beautifully designed animal patterns, enhancing both visual appeal and user experience.
 
 # **LINK**
 - **video demo:**
-- **hosted link:**
+- **hosted link:** https://httpharshjindal.github.io/Jigsaw-Puzzle/
 
 # **Features**
 - **Interactive Gameplay:** Drag and drop puzzle pieces to complete the animal patterns.
